@@ -4,7 +4,7 @@ description: "A blog to give shape to my musing on Data Analytics"
 #subheading: "Really cool blog about ... something"
 more: "read more"
 url: "http://aliarsalankazmi.github.io"
-baseurl: "/contrast" # comment out if in root directory
+baseurl: "/DSBlog2" # comment out if in root directory
 
 comments:
     disqus: #"niklasbuschmann"
