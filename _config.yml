@@ -1,6 +1,6 @@
-title: "blog title"
-author: "Blog Author"
-description: "Really cool blog about ... something"
+title: "A Blog on Data Analytics"
+author: "Ali Arsalan Kazmi"
+description: "A blog to give shape to my musing on Data Analytics"
 #subheading: "Really cool blog about ... something"
 more: "read more"
 url: "http://aliarsalankazmi.github.io"
@@ -23,12 +23,13 @@ style:
         even: "#222222"
 
 links:
-  - github: "https://github.com/me/"
-  - twitter: "https://twitter.com/me/"
-  - google-plus: "https://plus.google.com/+me"
-  - reddit: "https://www.reddit.com/user/me/"
-  - youtube: "https://www.youtube.com/user/me"
-  - steam: "http://steamcommunity.com/id/me/"
+  - github: "https://github.com/aliarsalankazmi/"
+  - twitter: "https://twitter.com/scac1041/"
+  - linkedin: "https://ae.linkedin.com/in/aliarsalankazmi"
+#  - google-plus: "https://plus.google.com/+me"
+#  - reddit: "https://www.reddit.com/user/me/"
+#  - youtube: "https://www.youtube.com/user/me"
+#  - steam: "http://steamcommunity.com/id/me/"
 
 paginate: 10
 excerpt_separator: "\n\n\n" # excerpt ends after two blank lines
